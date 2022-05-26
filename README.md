@@ -14,6 +14,8 @@
 
 - 🧑‍💼 I can help with **Data Pre-Processing, Unsupervised Machine Learning Techniques and rudimentary supervised learning.** 
 
+- ✒️I have the following certification: **Google Cloud Platform - Associate Cloud Engineer** 
+
 - 💬 Ask me about **GCP Technologies**
 
 - 📫 How to reach me **sounak_das@outlook.com**
