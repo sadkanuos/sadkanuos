@@ -6,15 +6,13 @@
 
 - 📝 Background in Operations Research, Statistical Methods based Machine Learning, Rudimentary Neural Networks and Manufacturing technologies.
 
-- 🔭 I’m currently training on **Angular and .NET frameworks**
-
-- 🌱 I’m currently learning **Rust for Webassembly**
+- 🔭 I’m currently training on **vue.js** and **.NET**
 
 - 🤔 Intrigued by **Kubernetes, Terraform**
 
 - 🧑‍💼 I can help with **Data Pre-Processing, Unsupervised Machine Learning Techniques and rudimentary supervised learning.** 
 
-- ✒️I have the following certification: **Google Cloud Platform - Associate Cloud Engineer** 
+- ✒️I am certificatied in **Google Cloud Platform** as an **Associate Cloud Engineer**.
 
 - 💬 Ask me about **GCP Technologies**
 
