@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **GCP Technologies**
 
-- 📫 Reach me **sounak_das@outlook.com**
+- 📫 Reach out @ **sounak_das@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
