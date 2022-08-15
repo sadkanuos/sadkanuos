@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sounak.</h1>
-<div align="right"data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c5a71202-32c7-4016-8dd4-5a79283d6baf" data-share-badge-host="https://www.credly.com"><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></div>
+<p><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900"></p>
+<p></p>
 <h3 align="center">Web Developer in making.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/sadkanuos" target="blank"><img src="https://img.shields.io/twitter/follow/sadkanuos?logo=twitter&style=for-the-badge" alt="sadkanuos" /></a> </p>
+<p><img  src="https://komarev.com/ghpvc/?username=sadkanous&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="sadkanous" /></p>
 
-- 📝 Background in Operations Research, Statistical Methods based Machine Learning, Rudimentary Neural Networks and Manufacturing technologies.
+- 📝 I have a background in Operations Research, Statistical Methods based Machine Learning, Rudimentary Neural Networks and Manufacturing technologies.
 
-- 🔭 I’m currently training on **vue.js** and **.NET**
+- 🔭 I’m currently training on Frontend Web Development Frameworks.
 
-- 🤔 Intrigued by **Kubernetes, Terraform**
+- 🤔 Intrigued by **Kubernetes** and **Terraform**
 
 - 🧑‍💼 I can help with **Data Pre-Processing, Unsupervised Machine Learning Techniques and rudimentary supervised learning.** 
 
-- ✒️I am certified as an **Associate Cloud Engineer** in **Google Cloud Platform**.
+- ✒️ I am certified as an **Associate Cloud Engineer** in **Google Cloud Platform**.
 
 - ✏️ I am also **Microsoft Certified** in **Azure Fundamentals**.
 
@@ -25,7 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/sadkanuos" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" alt="sadkanuos" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadkanous&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="sadkanous" /> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" title="bash" width="40" height="40"/> </a> 
