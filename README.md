@@ -10,6 +10,7 @@
 <br></br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin align="left"/>
 <br></br>
+<br></br>
 <div align="left">
 <ul>
     <li>📝 I have a background in Operations Research, Soft Computing and Data Analytics.</li>
