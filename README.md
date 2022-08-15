@@ -1,19 +1,16 @@
-
+<a href="https://www.credly.com/badges/c5a71202-32c7-4016-8dd4-5a79283d6baf/public_url"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900" height="100" align="right"></a>
+<a href="https://www.credential.net/9c95ae5d-53f0-4278-913a-b2c514b673b0"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/bri9ptdr_1660237478097_badge.png" alt="GCP-ACE" title="GCP-ACE" height="100" align="right"></a>
 <h1 align="center">Hi 👋, I'm Sounak.</h1>
 <h3 align="center">Budding Web Developer.</h3>
 <div>
 <img src="https://komarev.com/ghpvc/?username=sadkanous&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="sadkanous" align="left"/>
-<a href="https://www.linkedin.com/in/das-sounak">
-<a href="https://www.credly.com/badges/c5a71202-32c7-4016-8dd4-5a79283d6baf/public_url"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900" height="100" align="right"></a>
-<a href="https://www.credential.net/9c95ae5d-53f0-4278-913a-b2c514b673b0"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/bri9ptdr_1660237478097_badge.png" alt="GCP-ACE" title="GCP-ACE" height="100" align="right"></a>
+<a href="https://www.linkedin.com/in/das-sounak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin align="right"/></a>
 </div>
-<br></br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin align="left"/>
-<br></br>
 <br></br>
 <div align="left">
 <ul>
-    <li>📝 I have a background in Operations Research, Soft Computing and Data Analytics.</li>
+    <li>📝 I have a background in Operations Research, Soft Computing and 
+    Data Analytics.</li>
     <li>🧑‍💼 I have proficiency in <b>Data Pre-Processing</b> and <b>Supervised and  Unsupervised Machine Learning Techniques</b></li>
     <li>👷🏼‍♂️ I have experience in <b>creating CI/CD workflows and pipelines</b> using <b>Azure DevOps</b> and <b>Github Actions</b>. </li>
     <li>🔭 I’m currently learning Frontend Web Development Frameworks <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="right"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" align="right"></li>
