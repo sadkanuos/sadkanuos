@@ -17,8 +17,8 @@
 
 - ✏️ I am also **Microsoft Certified** in **Azure Fundamentals**.
 
-<p><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900" width="80" align="center">
-<img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/bri9ptdr_1660237478097_badge.png" alt="GCP-ACE" title="GCP-ACE" width="80" align="center">
+<p align="center"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900" width="80">
+<img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/bri9ptdr_1660237478097_badge.png" alt="GCP-ACE" title="GCP-ACE" width="80">
 </p>
 
 - 💬 Ask me about **GCP Technologies**
