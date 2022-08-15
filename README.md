@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sounak.</h1>
+<div align="right"data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c5a71202-32c7-4016-8dd4-5a79283d6baf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <h3 align="center">Web Developer in making.</h3>
 
 
@@ -12,7 +13,9 @@
 
 - 🧑‍💼 I can help with **Data Pre-Processing, Unsupervised Machine Learning Techniques and rudimentary supervised learning.** 
 
-- ✒️I am certificatied in **Google Cloud Platform** as an **Associate Cloud Engineer**.
+- ✒️I am certified as an **Associate Cloud Engineer** in **Google Cloud Platform**.
+
+- ✏️ I am also **Microsoft Certified** in **Azure Fundamentals**.
 
 - 💬 Ask me about **GCP Technologies**
 
