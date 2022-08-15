@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sounak.</h1>
 <p></p>
-<h3 align="center">Web Developer in making.</h3>
+<h3 align="center">Web Developer in training.</h3>
 
 
 <p><img  src="https://komarev.com/ghpvc/?username=sadkanous&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="sadkanous" /></p>
 
 - 📝 I have a background in Operations Research, Statistical Methods based Machine Learning, Rudimentary Neural Networks and Manufacturing technologies.
 
-- 🔭 I’m currently training on Frontend Web Development Frameworks.
+- 🧑‍💼 I have proficiency in **Data Pre-Processing** and **Supervised and  Unsupervised Machine Learning Techniques**
 
-- 🤔 Intrigued by **Kubernetes** and **Terraform**
+- 👷🏼‍♂️ I have experience in **creating CI/CD workflows and pipelines** using **Azure DevOps** and **Github Actions**.
 
-- 🧑‍💼 I can help with **Data Pre-Processing, Unsupervised Machine Learning Techniques and rudimentary supervised learning.** 
+- 👷🏽‍♂️ My Cloud experience is in 
+
+- 🔭 I’m currently learning Frontend Web Development Frameworks 
+<img >
+
+- 🤔 Intrigued by **Docker**, **Kubernetes** and **Terraform**
 
 - ✒️ I am certified as an **Associate Cloud Engineer** in **Google Cloud Platform**.
 
@@ -20,8 +25,6 @@
 <p align="center"><a href="https://www.credly.com/badges/c5a71202-32c7-4016-8dd4-5a79283d6baf/public_url"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900" width="80"></a>
 <a href="https://www.credential.net/9c95ae5d-53f0-4278-913a-b2c514b673b0"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/bri9ptdr_1660237478097_badge.png" alt="GCP-ACE" title="GCP-ACE" width="80"></a>
 </p>
-
-- 💬 Ask me about **GCP Technologies**
 
 - 📫 Reach out @ **sounak_das@outlook.com**
 
