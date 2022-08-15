@@ -2,8 +2,9 @@
 <p></p>
 <h3 align="center">Budding Web Developer.</h3>
 
-<p><img  src="https://komarev.com/ghpvc/?username=sadkanous&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="sadkanous" /></p>
-
+<img src="https://komarev.com/ghpvc/?username=sadkanous&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="sadkanous" align="left"/>
+<p align="right"><a href="https://www.credly.com/badges/c5a71202-32c7-4016-8dd4-5a79283d6baf/public_url"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900" width="100"></a>
+<a href="https://www.credential.net/9c95ae5d-53f0-4278-913a-b2c514b673b0"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/bri9ptdr_1660237478097_badge.png" alt="GCP-ACE" title="GCP-ACE" width="100"></a></p>
 <div>
 <ul>
     <li>📝 I have a background in Operations Research, Soft Computing and Data Analytics.</li>
@@ -13,8 +14,6 @@
     <li>🤔 Intrigued by <b>Docker</b>, <b>Kubernetes</b> and <b>Terraform</b></li>
     <li>✒️ I am certified as an <b>Associate Cloud Engineer</b> in <b>Google Cloud Platform</b>.</li>
     <li>✏️ I am also <b>Microsoft Certified</b> in <b>Azure Fundamentals</b>.</li>
-    <p align="center"><a href="https://www.credly.com/badges/c5a71202-32c7-4016-8dd4-5a79283d6baf/public_url"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900" width="80"></a>
-    <a href="https://www.credential.net/9c95ae5d-53f0-4278-913a-b2c514b673b0"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/bri9ptdr_1660237478097_badge.png" alt="GCP-ACE" title="GCP-ACE" width="80"></a></p>
     <li>📫 Reach out: <a href='mailto:sounak_das@outlook.com'>sounak_das@outlook.com</a></li>
 </ul>
 </div>
