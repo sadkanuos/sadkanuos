@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sounak.</h1>
-<p></p>
-<h3 align="center">Budding Web Developer.</h3>
-
-<img src="https://komarev.com/ghpvc/?username=sadkanous&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="sadkanous" align="left"/>
-<p align="right"><a href="https://www.credly.com/badges/c5a71202-32c7-4016-8dd4-5a79283d6baf/public_url"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900" width="100"></a>
-<a href="https://www.credential.net/9c95ae5d-53f0-4278-913a-b2c514b673b0"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/bri9ptdr_1660237478097_badge.png" alt="GCP-ACE" title="GCP-ACE" width="100"></a></p>
+<div>
+<p><h1 align="center">Hi 👋, I'm Sounak.</h1>
+<h3 align="center">Budding Web Developer.</h3></p>
+<p align="right"><a href="https://www.credly.com/badges/c5a71202-32c7-4016-8dd4-5a79283d6baf/public_url"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900" height="40"></a>
+<a href="https://www.credential.net/9c95ae5d-53f0-4278-913a-b2c514b673b0"><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/bri9ptdr_1660237478097_badge.png" alt="GCP-ACE" title="GCP-ACE" height="40"></a></p>
+</div>
+<p><img src="https://komarev.com/ghpvc/?username=sadkanous&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="sadkanous" /></p>
 <div>
 <ul>
     <li>📝 I have a background in Operations Research, Soft Computing and Data Analytics.</li>
