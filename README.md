@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/sadkanuos" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" alt="sadkanuos" height="30" width="40" /></a>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadkanous&label=Profile%20views&color=blue-violet&style=for-the-badge" alt="sadkanous" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" title="bash" width="40" height="40"/> </a> 
