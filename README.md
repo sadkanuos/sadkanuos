@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sounak.</h1>
-<div align="right"data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c5a71202-32c7-4016-8dd4-5a79283d6baf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div align="right"data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c5a71202-32c7-4016-8dd4-5a79283d6baf" data-share-badge-host="https://www.credly.com"><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></div>
 <h3 align="center">Web Developer in making.</h3>
 
 
