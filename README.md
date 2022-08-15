@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sounak.</h1>
-<p><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900">
-<img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/bri9ptdr_1660237478097_badge.png" alt="GCP-ACE" title="GCP-ACE">
+<p><img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/microsoft-certified-azure-fundamentals.png" alt="AZ-900" title="AZ-900" width="40">
+<img src="https://github.com/sadkanuos/sadkanuos/blob/main/assets/bri9ptdr_1660237478097_badge.png" alt="GCP-ACE" title="GCP-ACE" width="40">
 </p>
 <p></p>
 <h3 align="center">Web Developer in making.</h3>
