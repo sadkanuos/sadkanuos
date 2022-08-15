@@ -8,7 +8,7 @@
 <ul>
     <li>📝 I have a background in Operations Research, Soft Computing and Data Analytics.</li>
     <li>🧑‍💼 I have proficiency in <b>Data Pre-Processing</b> and <b>Supervised and  Unsupervised Machine Learning Techniques</b></li>
-    <li>👷🏼‍♂️ I have experience in <b>creating CI/CD workflows and pipelines</b> using <b>Azure DevOps</b> and <b>Github Actions</b>. <img src=""><img src="" align="left"></li>
+    <li>👷🏼‍♂️ I have experience in <b>creating CI/CD workflows and pipelines</b> using <b>Azure DevOps</b> and <b>Github Actions</b>. </li>
     <li>🔭 I’m currently learning Frontend Web Development Frameworks <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="right"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" align="right"></li>
     <li>🤔 Intrigued by <b>Docker</b>, <b>Kubernetes</b> and <b>Terraform</b></li>
     <li>✒️ I am certified as an <b>Associate Cloud Engineer</b> in <b>Google Cloud Platform</b>.</li>
