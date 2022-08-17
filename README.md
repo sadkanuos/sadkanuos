@@ -45,7 +45,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="python" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Rust" title="rustlang"  height="40" /> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash" title="bash" height="40"/> </a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GNU%20Bash-121011?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash" title="bash" height="40"/> </a>  
 </div>
 
 <h3 align="left">Tools and Frameworks</h3>
@@ -69,7 +69,7 @@
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell" title="powershell" height="40"/> </a>
-<a href="https://unix.org/version4/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="mysql" title="shell-scripting" height="40"/> </a>
+<!-- <a href="https://unix.org/version4/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell-scripting" title="shell-scripting" height="40"/> </a> -->
 </div>
 
 <h3 align="left">Cloud based technologies:</h3>
