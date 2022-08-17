@@ -45,7 +45,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="python" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Rust" title="rustlang"  height="40" /> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GNU%20Bash-121011?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash" title="bash" height="40"/> </a>  
+</a>  
 </div>
 
 <h3 align="left">Tools and Frameworks</h3>
@@ -68,6 +68,7 @@
 </div>
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GNU%20Bash-575656?style=for-the-badge&logo=GNU%20Bash&logoColor=green" alt="bash" title="bash" height="40"/>
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell" title="powershell" height="40"/> </a>
 <!-- <a href="https://unix.org/version4/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell-scripting" title="shell-scripting" height="40"/> </a> -->
 </div>
@@ -77,7 +78,7 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" title="Microsoft-Azure" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Devops" title="Azure-Devops" height="40"/> </a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github-Actions" title="Github-Actions" height="40"/> </a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub_Actions-14264A?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github-Actions" title="Github-Actions" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" title="Terraform"  height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" title="docker"  height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/> </a>
