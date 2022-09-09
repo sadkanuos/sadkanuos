@@ -24,7 +24,7 @@
 </ul>
 </div>
 <h3 align="left">💻 Machine Configuration: </h3>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/hp%20laptop-294172?style=for-the-badge&logo=hp&logoColor=white"/>
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%23294172.svg?&style=for-the-badge&logo=intel&logoColor=white" />
