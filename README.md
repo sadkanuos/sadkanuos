@@ -11,16 +11,17 @@
 </div>
 <br></br>
 <div align="left">
+<h3>About Me:</h3>
 <ul>
-    <li>📝 I have a background in Operations Research, Soft Computing and 
+    <li>My background is in Operations Research, Soft Computing and 
     Data Analytics.</li>
-    <li>🧑‍💼 I have proficiency in <b>Data Pre-Processing</b> and <b>Supervised and  Unsupervised Machine Learning Techniques</b></li>
-    <li>👷🏼‍♂️ I have experience in <b>creating CI/CD workflows and pipelines</b> using <b>Azure DevOps</b> and <b>Github Actions</b>. </li>
-    <li>🔭 I’m currently learning <b>Frontend Web Development Frameworks</b> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="right"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" align="right"></li>
-    <li>🤔 I am also interested in <b>Docker</b>, <b>Kubernetes</b> and <b>Terraform</b></li>
-    <li>✒️ I am certified as an <b>Associate Cloud Engineer</b> in <b>Google Cloud Platform</b>.</li>
-    <li>✏️ I am also <b>Microsoft Certified</b> in <b>Azure Fundamentals</b>.</li>
-    <li>📫 Reach out: <a href='mailto:sounak_das@outlook.com'>sounak_das@outlook.com</a></li>
+    <li>I am proficient in <b>Data Pre-Processing</b> and <b>Supervised and  Unsupervised Machine Learning Techniques</b></li>
+    <li>I have experience in <b>creating CI/CD workflows and pipelines</b> using <b>Azure DevOps</b> and <b>Github Actions</b>. </li>
+    <li>I’m currently learning <b>Frontend Web Development Frameworks</b> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="right"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" align="right"></li>
+    <li>I am also interested in <b>Docker</b>, <b>Kubernetes</b> and <b>Terraform</b></li>
+    <li>I am certified as an <b>Associate Cloud Engineer</b> in <b>Google Cloud Platform</b>.</li>
+    <li>I am also <b>Microsoft Certified</b> in <b>Azure Fundamentals</b>.</li>
+    <li>Reach out: <a href='mailto:sounak_das@outlook.com'>sounak_das@outlook.com</a></li>
 </ul>
 </div>
 <h3 align="left">💻 Machine Configuration: </h3>
@@ -32,55 +33,49 @@
 </div>
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sadkanuos" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" alt="sadkanuos" height="30" width="40" /></a>
+<a href="https://twitter.com/sadkanuos" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" alt="sadkanuos" height="20" width="40" /></a>
 </p> -->
 
 <h3 align="left">Languages:</h3>
-<div align="center">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="c" width="40" height="40"/> </a>  
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="c#" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="python" width="40" height="40"/> </a> 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Rust" title="rustlang"  height="40" /> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="40" height="40"/> </a>
-</a>  
+<div align="left">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css" width="25" height="25"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html" width="25" height="25"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="25" height="25"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="python" width="25" height="25"/> </a> 
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Rust" title="rustlang"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="25" height="25"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="c" width="25" height="25"/> </a>  
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="c#" width="25" height="25"/> </a>   
 </div>
 
 <h3 align="left">Tools and Frameworks</h3>
-<div align="center">
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" title=".NET" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" title="sass"  height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" title="reactjs" width="40" height="40"/> </a>
-<a href="https://vuejs.org/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" title="vuejs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" title="tailwind"  height="40"/> </a>
-<!-- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white " alt="bootstrap" title="bootstrap" height="40"/> </a>  -->
-</div>
-<div align="center">
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" title="pandas"  height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" title="sklearn"  height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" title="numpy" height="40"/> </a>
-<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="40"/> </a> -->
-<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="scipy" title="scipy" height="40"/> </a>
-
-</div>
-<div align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GNU%20Bash-575656?style=for-the-badge&logo=GNU%20Bash&logoColor=green" alt="bash" title="bash" height="40"/>
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell" title="powershell" height="40"/> </a>
-<!-- <a href="https://unix.org/version4/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell-scripting" title="shell-scripting" height="40"/> </a> -->
+<div align="left">
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" title=".NET" /> </a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" title="sass" /> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" title="reactjs" width="25" height="25"/> </a>
+<a href="https://vuejs.org/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" title="vuejs" width="25" height="25"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" title="tailwind" /> </a>
+<!-- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white " alt="bootstrap" title="bootstrap" height="25"/> </a>  -->
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="25" height="25"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" title="pandas"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" title="sklearn"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" title="numpy"/> </a>
+<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="25"/> </a> -->
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="scipy" title="scipy" /> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="25" height="25"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GNU%20Bash-575656?style=for-the-badge&logo=GNU%20Bash&logoColor=green" alt="bash" title="bash"/>
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell" title="powershell"/> </a>
+<!-- <a href="https://unix.org/version4/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell-scripting" title="shell-scripting" height="25"/> </a> -->
 </div>
 
 <h3 align="left">Cloud based technologies:</h3>
-<div align="center">
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" title="Microsoft-Azure" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Devops" title="Azure-Devops" height="40"/> </a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub_Actions-14264A?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github-Actions" title="Github-Actions" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" title="Terraform"  height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" title="docker"  height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/> </a>
+<div align="left">
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" title="Microsoft-Azure"/> </a>
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Devops" title="Azure-Devops"/> </a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub_Actions-14264A?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github-Actions" title="Github-Actions"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" title="Terraform" /> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" title="docker"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="25" height="25"/> </a>
 </div>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadkanuos&show_icons=true&locale=en&layout=compact" alt="sadkanuos" /></p> -->
